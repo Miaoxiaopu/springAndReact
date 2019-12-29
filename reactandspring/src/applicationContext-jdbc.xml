@@ -30,7 +30,6 @@
 			</list>
 		</property>
 		<property name="typeAliasesPackage" value="com.mark.www.bean"></property>
-		
 	</bean>
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
 		<property name="basePackage" value="com.miaopu.www.dao"></property>
